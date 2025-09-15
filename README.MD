@@ -17,7 +17,7 @@ Projeto gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 
 <br>
 <div style="display: flex;">
-<p >
+<p style="display: flex;" >
   <img alt="projeto1" src=".github/Light mode.jpg" width="10%">
   <p >
   <img alt="projeto2" src=".github/Dark mode.jpg" width="10%">
