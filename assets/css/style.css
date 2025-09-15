@@ -75,7 +75,12 @@ body{
     
 
 }
-#switch button{
+
+ .ligth #switch button{
+    animation: move-in 0.3s forwards ;
+   
+ }
+ #switch button{
     width: 32px;
     height: 32px;
     background: white var(--switch-url) no-repeat  center ;
@@ -90,10 +95,6 @@ body{
 
     
 }
- .ligth #switch button{
-    animation: move-in 0.3s forwards ;
-   
- }
 #switch span{
 
     display: block;
@@ -207,12 +208,13 @@ footer{
     .ligth{
         --bg-url: url(/assets/img/bg-desktop-light.jpg);
     }
+    
+    @keyframes move-back{
+    from{left: 50%;}
+    to{left: 0;}
+}
 }
 @keyframes move-in {
     from{left: 0px;}
     to{left: 50%;}
-}
-@keyframes move-back{
-    from{left: 50%;}
-    to{left: 0;}
 }
