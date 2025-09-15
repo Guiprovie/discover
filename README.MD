@@ -16,7 +16,7 @@ Projeto gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <br>
-<div style="display: flex; justify-content:center"
+<div style="display: flex; justify-content:right"
 
  >
 
