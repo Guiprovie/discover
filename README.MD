@@ -40,8 +40,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Esse projeto é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
-<a href="https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate" target="_blank" rel="noopener">Você pode visualizar o layout do projeto através DESSE LINK</a>
 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://app.rocketseat.com.br/journey/discover/overview). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
