@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Esse projeto é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
-<a href="https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate" target="_blank">Você pode visualizar o layout do projeto através DESSE LINK</a>
+<a href="https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate" target="_blank" rel="noopener">Você pode visualizar o layout do projeto através DESSE LINK</a>
 
 
 ## :memo: Licença
